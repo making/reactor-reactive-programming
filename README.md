@@ -1,0 +1,2 @@
+<a href="http://www.amazon.co.jp/exec/obidos/ASIN/4798149519/ikam-22/ref=nosim/" name="amazletlink" target="_blank">RxJavaリアクティブプログラミング (CodeZine BOOKS)</a>
+の「Chapter04　FlowableとObservableのオペレータ」のコードの[Reactor](https://projectreactor.io/)版です。
